@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/D3vilio/TryMusic",
+    "repository": "https://github.com/SMJ321XD/TryMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
